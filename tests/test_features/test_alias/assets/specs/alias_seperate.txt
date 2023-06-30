@@ -1,2 +1,0 @@
-[dir="a1"|alias="adir"]
-[dir="a2"|alias="bdir"]

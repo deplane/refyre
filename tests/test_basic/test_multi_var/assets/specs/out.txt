@@ -1,3 +1,0 @@
-[dir="out"]
-    [dir="both"|name="a,b"]
-    [dir="a"|name="a"]

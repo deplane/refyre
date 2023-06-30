@@ -1,3 +1,0 @@
-[dir="out"]
-    [dir="ab"|name="ab"]
-    [dir="bc"|name="bc"]

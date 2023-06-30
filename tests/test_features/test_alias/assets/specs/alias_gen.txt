@@ -1,1 +1,0 @@
-[dir="a$"|alias="dir$"]

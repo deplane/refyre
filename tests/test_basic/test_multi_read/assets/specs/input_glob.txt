@@ -1,1 +1,0 @@
-[dir="g!a*"|name="+var"]

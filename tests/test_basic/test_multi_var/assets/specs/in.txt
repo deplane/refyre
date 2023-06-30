@@ -1,3 +1,0 @@
-[dir="in"]
-    [dir="a"|name="a"]
-    [dir="b"|name="b"]

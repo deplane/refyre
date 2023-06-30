@@ -1,2 +1,0 @@
-[dir="exps"]
-    [dir="exp$"|imports="specs/single_exp.txt"|flags="*s"]

@@ -1,2 +1,0 @@
-[dir="dummymath"]
-    [dir="module1"|flags="*c"]

@@ -1,6 +1,0 @@
-input-spec: spec.txt
-base-dir: '.'
-env:
-  name: 'envy'
-  requirements: 'winklala/requirements.txt'
-  refresh: True
